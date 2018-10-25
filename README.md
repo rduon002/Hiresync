@@ -1,3 +1,5 @@
+The heroku link requires, a bit of patient to load. If it does not come up right away, hit refresh.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
