@@ -69,3 +69,9 @@ class ApplicantProfile extends Component {
 }
 
 export default ApplicantProfile;
+
+//TODO 
+
+//create a table onclick funtion that populates skills prof and achivements 
+
+//create a target ID so that we can get that data to replicate on employers page
